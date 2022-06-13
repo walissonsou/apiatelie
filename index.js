@@ -1,12 +1,10 @@
 const express = require('express');
 const app = express();
+const cors = require('cors');
 const port = process.env.PORT || 3000;
 const produtos = require("./src/products/produtos.json")
 
-var cors = require('cors')
-
-
-app.use(cors())
+app.use(cors());
 
 app.get('/products', (req, res) => {
   return res.json(produtos)
