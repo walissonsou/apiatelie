@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-    "price": 109.95,
-    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-    "category": "men's clothing",
+    "title": "Estojo escolar",
+    "price": 149.95,
+    "description": "Se tem um estojo que eu estou apaixonada é o nostalgia. O estojo nostalgia cabe muiiitaa coisa!",
+    "category": "escolar",
     "image": "https://i.imgur.com/fUJjRWz.png",
     "rating": {
       "rate": 3.9,
@@ -12,15 +12,147 @@
     } 
   },
     {
-      "id": 1,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "id": 2,
+      "title": "Porta frauda",
       "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
+      "description": "Porta frauda bebe rosa ",
+      "category": "bebe",
+      "image": "https://i.imgur.com/pYTzAwe.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 4,
+      "title": "Estojo escolar",
+      "price": 109.95,
+      "description": "Volta às aulas está chegando e já aproveita para encomendar um estojo Kipy pra chamar de seu",
+      "category": "escolar",
+      "image": "https://i.imgur.com/edwKADP.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    } , {
+      "id": 5,
+      "title": "Estojo escolar",
+      "price": 109.95,
+      "description": "Volta às aulas está chegando e já aproveita para encomendar um estojo Kipy pra chamar de seu",
+      "category": "escolar",
+      "image": "https://i.imgur.com/HnGYkq8.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    } ,
+    {
+      "id": 6,
+      "title": "Estojo escolar",
+      "price": 109.95,
+      "description": "Volta às aulas está chegando e já aproveita para encomendar um estojo Kipy pra chamar de seu",
+      "category": "escolar",
+      "image": "https://i.imgur.com/exDh2s9.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    } ,
+    {
+      "id": 7,
+      "title": "Sala e cozinha conjunto 4",
+      "price": 109.95,
+      "description": "A cliente vai deixar sua cozinha linda para receber suas visitas com esse lindo kit ",
+      "category": "sala",
+      "image": "https://i.imgur.com/zcZikr1.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    } ,
+    {
+      "id": 8,
+      "title": "Sala e cozinha conjunto 1",
+      "price": 109.95,
+      "description": "A cliente vai deixar sua cozinha linda para receber suas visitas com esse lindo kit ",
+      "category": "sala",
+      "image": "https://i.imgur.com/bV6OsiY.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    } ,
+    {
+      "id": 9,
+      "title": "Sala e cozinha conjunto 2",
+      "price": 109.95,
+      "description": "A cliente vai deixar sua cozinha linda para receber suas visitas com esse lindo kit ",
+      "category": "sala",
+      "image": "https://i.imgur.com/MfMCstQ.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    } ,
+    {
+      "id": 10,
+      "title": "Sala e cozinha conjunto 3",
+      "price": 109.95,
+      "description": "A cliente vai deixar sua cozinha linda para receber suas visitas com esse lindo kit ",
+      "category": "sala",
+      "image": "https://i.imgur.com/VgSk0BC.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    } ,
+    {
+      "id": 11,
+      "title": "bebe 1",
+      "price": 109.95,
+      "description": "Ela cabe bastante coisa!, além de poder levar pra todo lugar 1 ",
+      "category": "bebe",
+      "image": "https://i.imgur.com/MpIzLqz.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    } ,
+    {
+      "id": 12,
+      "title": "bebe 2",
+      "price": 109.95,
+      "description": "YEla cabe bastante coisa!, além de poder levar pra todo lugar 2",
+      "category": "bebe",
+      "image": "https://i.imgur.com/fUJjRWz.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    } ,
+    {
+      "id": 13,
+      "title": "bebe 3",
+      "price": 109.95,
+      "description": "Ela cabe bastante coisa!, além de poder levar pra todo lugar  3",
+      "category": "bebe",
+      "image": "https://i.imgur.com/fUJjRWz.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    } ,
+    {
+      "id": 14,
+      "title": "bebe 4",
+      "price": 109.95,
+      "description": "Ela cabe bastante coisa!, além de poder levar pra todo lugar 4 ",
+      "category": "bebe",
       "image": "https://i.imgur.com/fUJjRWz.png",
       "rating": {
         "rate": 3.9,
         "count": 120
       }
     } 
+
 ]
